@@ -4,8 +4,8 @@ function Home() {
     <h3>Maneva</h3>
     <p>Saudades do tempo, dos velhos momentos</p>
     <p>Dos anos passados que foram com o vento</p>
-    <p>  Sorrisos, lembranças, belos sentimentos
-      De transformações e de renascimentos
+    <p>Sorrisos, lembranças, belos sentimentos</p>
+      <p>De transformações e de renascimentos
       Praias, viagens pela madrugada
       Nossa rotina era o pé na estrada
       Sempre felizes sem pensar em nada
