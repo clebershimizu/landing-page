@@ -2,9 +2,9 @@ function Home() {
   return <>
     <h1>Saudades do tempo</h1>
     <h3>Maneva</h3>
-    <p>Saudades do tempo, dos velhos momentos
-      Dos anos passados que foram com o vento
-      Sorrisos, lembranças, belos sentimentos
+    <p>Saudades do tempo, dos velhos momentos</p>
+    <p>Dos anos passados que foram com o vento</p>
+    <p>  Sorrisos, lembranças, belos sentimentos
       De transformações e de renascimentos
       Praias, viagens pela madrugada
       Nossa rotina era o pé na estrada
